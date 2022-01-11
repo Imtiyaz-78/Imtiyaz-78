@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Md Imtiyaz</h1>
 
-<h3 align="center">Hello, I'm Prateek Bansal and currently pursuing my engineering in the field of Computer Science. The best part about me is that I am eager to learn. Although sometimes feel frustrated about not getting appropriate results, but that motivates me to even work harder. I love to build and work on projects which are based on real-life           applications and which add value to society.
+<h3 align="center">
+ Hello, I'm Prateek Bansal and currently pursuing my engineering in the field of Computer Science. The best part about me is that I am eager to learn. Although sometimes feel frustrated about not getting appropriate results, but that motivates me to even work harder. I love to build and work on projects which are based on real-life applications and which add value to society.
 </h3>                
 
 
