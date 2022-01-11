@@ -1,7 +1,8 @@
  <a href="#"><img width="100%" height="300px" src="https://miro.medium.com/max/1400/1*b29pJKZqp6Jxb3rd9QlJiw.png" height="100%"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Md Imtiyaz</h1>
-<h3 align="center">Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people</h3>
+<h3 align="center">Hello World, I'm Prateek Bansal and currently pursuing my engineering in the field of Computer Science. The best part about me is that I am eager to learn. Although sometimes feel frustrated about not getting appropriate results, but that motivates me to even work harder. I love to build and work on projects which are based on real-life applications and which add value to society.</h3>                
+
 
 
 ## 🙋‍♂️ About Me
