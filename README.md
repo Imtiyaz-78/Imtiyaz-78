@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **imtiyazmd@gmail.com**
 
-- ⚡ Fun fact **Playing & Watching Cricket .**
+- ⚡ Fun fact **Playing Cricket .**
 
 
 ## 🚀 Languages and Tools:
