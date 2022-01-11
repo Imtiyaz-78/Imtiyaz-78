@@ -1,4 +1,4 @@
- <a href="#"><img width="100%" height="300px" src="https://c.tenor.com/1d9jmOsLP2cAAAAd/hello.gif" height="100%"/></a>
+ <a href="#"><img width="100%" height="300px" src="https://miro.medium.com/max/1400/1*b29pJKZqp6Jxb3rd9QlJiw.png" height="100%"/></a>
 
 
  
