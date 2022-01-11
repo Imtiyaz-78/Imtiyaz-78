@@ -1,17 +1,46 @@
  <a href="#"><img width="100%" height="300px" src="https://miro.medium.com/max/1400/1*b29pJKZqp6Jxb3rd9QlJiw.png" height="100%"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Md Imtiyaz</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mukesh Dani</h1>
 <h3 align="center">Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people</h3>
 
 
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **[On my Skill](https://github.com/Imtiyaz-78)**
+
+- 🌱 I’m currently learning **[B-Tech(Computer Science & Engineering)](https://mdu.ac.in/),Coding and Web development.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Github ](https://github.com/Imtiyaz-78)**
+
+- 📫 How to reach me **imtiyazmd@gmail.com**
+
+- ⚡ Fun fact **Playing & Watching Cricket .**
+
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>   
+    
+</p>
 
 
 
-- 🔭 I’m currently working on My Skills
-- 🌱 I’m currently learning Data Structure and Algorithms
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Something 
-- 📫 How to reach me: imtiyazmd803@gmail.com
-- 😄 Pronouns:  Md Imtiyaz
-- ⚡ Fun fact Cricket
--->
+
+
+
+
+
+
+
