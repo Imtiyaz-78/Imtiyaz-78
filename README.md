@@ -114,9 +114,9 @@
     <img src="https://komarev.com/ghpvc/?username=Imtiyaz-78
 ">
 </a>
-<a href="https://github.com/Imtiyaz-78
-?tab=followers"><img src="https://img.shields.io/github/followers/Imtiyaz-78
-?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Imtiyaz-78?tab=followers"><img src="https://img.shields.io/github/followers/Imtiyaz-78?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
 
 
 
