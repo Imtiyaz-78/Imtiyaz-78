@@ -105,16 +105,14 @@
 <a href = "https://www.linkedin.com/in/imtiyaz-78/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/MDImtiy82918086"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/md_imtiyaz_78/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Imtiyaz-78
-">
+    <img src="https://komarev.com/ghpvc/?username=Imtiyaz-78">
 </a>
 <a href="https://github.com/Imtiyaz-78?tab=followers"><img src="https://img.shields.io/github/followers/Imtiyaz-78?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
 
