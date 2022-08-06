@@ -111,7 +111,8 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mukeshdani">
+    <img src="https://komarev.com/ghpvc/?username=Imtiyaz-78
+">
 </a>
 <a href="https://github.com/mukeshdani?tab=followers"><img src="https://img.shields.io/github/followers/mukeshdani?label=Followers&style=social" alt="GitHub Badge"></a>
 
