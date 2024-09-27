@@ -1,4 +1,4 @@
- <a href="#"><img width="100%" height="300px" src="[https://miro.medium.com/max/1400/1*b29pJKZqp6Jxb3rd9QlJiw.png](https://cdn-icons-png.flaticon.com/256/11180/11180563.png)" height="100%"/></a>
+ <a href="#"><img width="100%" height="300px" src="https://cdn-icons-png.flaticon.com/256/11180/11180563.png" height="100%"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Md Imtiyaz</h1>
 
